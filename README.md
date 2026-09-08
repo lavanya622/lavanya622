@@ -1,354 +1,352 @@
 # 💻 LAVANYA GUNTUPALLI
 
-### `Artificial Intelligence & Machine Learning` · `Python` · `Generative AI`
+
+### AI/ML · Data Science · Python · Generative AI
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github"/>
-  </a>
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-Explorer-purple?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-%23FF8C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Science-%234A90E2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-%238A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-%2300758F?style=flat-square"/>
+
 </p>
 
-> **Turning data into insights, models into solutions, and ideas into intelligent applications.**
+> **Building my foundation in AI, Machine Learning and Data Science — one project, one dataset, and one problem at a time.**
 
 ---
 
-## `01` — WHO I AM
+## `01` — ABOUT ME
 
-I’m an **Artificial Intelligence & Machine Learning student** passionate about building practical solutions with data and intelligent systems.
+I’m an **Artificial Intelligence & Machine Learning student** who enjoys working with data, exploring intelligent systems, and turning ideas into practical projects.
 
-My journey started with programming and data analysis and gradually moved toward **Machine Learning, Deep Learning, Generative AI, and AI-powered applications**.
+Currently, I’m expanding my knowledge across **AI, Data Science, Machine Learning, SQL, Databases, and Generative AI**, while continuously building projects to strengthen my practical skills.
 
-I enjoy understanding **why a model works**, not just making it work.
+I believe the best way to learn technology is to **learn → build → experiment → improve**.
 
 ```text
-Curiosity
-    ↓
-Learn
-    ↓
-Experiment
-    ↓
-Build
-    ↓
-Analyze
-    ↓
-Improve
+                    LAVANYA
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+   AI / ML        Data Science    Software
+        │              │           Development
+        ↓              ↓              ↓
+  Models & AI      Analysis       Applications
+        │              │              │
+        └──────────────┼──────────────┘
+                       ↓
+                  BUILD PROJECTS
+                       ↓
+                 KEEP LEARNING
 ```
 
 ---
 
-## `02` — WHAT I WORK WITH
+# `02` — WHAT I'M LEARNING NOW
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 
-`Machine Learning` `Deep Learning` `Generative AI`
-`NLP Fundamentals` `LLMs` `Prompt Engineering`
-`Predictive Modeling` `Time-Series Analysis`
+Exploring the fundamentals of **Artificial Intelligence, Machine Learning and intelligent applications**, with a focus on understanding how models learn from data.
 
-### Machine Learning
+### 📊 Data Science
 
-`Regression` `Classification` `Clustering`
-`Decision Trees` `Random Forest` `KNN`
-`SVM` `Naive Bayes` `XGBoost`
-`Feature Engineering` `Model Evaluation`
+Currently strengthening my skills in:
 
-### Data
+`Data Cleaning` · `EDA` · `Data Analysis` · `Statistics`
+`Data Visualization` · `Feature Engineering` · `Model Evaluation`
 
-`Python` `NumPy` `Pandas`
-`Matplotlib` `Seaborn`
-`EDA` `Statistics` `Data Cleaning`
-`Outlier Detection`
+### 🗄️ SQL & Databases
 
-### Development
+Building a stronger foundation in:
 
-`Flask` `React.js` `Node.js`
-`Express.js` `HTML` `CSS` `JavaScript`
+`SQL Queries` · `CRUD Operations` · `Joins` · `Database Design`
+`MySQL` · `MongoDB`
 
-### Databases
+### ✨ Generative AI
 
-`MySQL` `MongoDB`
+Exploring:
 
-### Tools
+`Generative AI` · `LLMs` · `Prompt Engineering` · `AI Applications`
 
-`Git` `GitHub` `VS Code`
-`Jupyter Notebook` `Anaconda` `Figma`
+### 🐍 Python
+
+Using Python as my primary language for:
+
+`Data Analysis` · `Machine Learning` · `Automation` · `Backend Development`
 
 ---
 
-# `03` — ENGINEERING TOOLKIT
+# `03` — MY TECHNICAL WORLD
 
-| Area                | Technologies                                 |
-| ------------------- | -------------------------------------------- |
-| **Languages**       | Python · JavaScript · SQL                    |
-| **ML**              | Scikit-learn · Random Forest · XGBoost · SVM |
-| **Deep Learning**   | LSTM · GRU · Neural Networks                 |
-| **Data**            | Pandas · NumPy · Matplotlib · Seaborn        |
-| **GenAI**           | LLMs · Prompt Engineering · OpenAI APIs      |
-| **Backend**         | Flask · Node.js · Express.js                 |
-| **Frontend**        | React.js · HTML · CSS · JavaScript           |
-| **Database**        | MySQL · MongoDB                              |
-| **Design**          | Figma · UI/UX                                |
-| **Version Control** | Git · GitHub                                 |
+| Domain                | Technologies                                        |
+| --------------------- | --------------------------------------------------- |
+| **Programming**       | Python · Java (Basics)                              |
+| **AI / ML**           | Scikit-learn · Machine Learning · Model Training    |
+| **Data Science**      | Pandas · NumPy · Matplotlib · Seaborn               |
+| **Generative AI**     | Generative AI · Prompt Engineering                  |
+| **Databases**         | MySQL · MongoDB                                     |
+| **Web Development**   | HTML · CSS · JavaScript · Node.js                   |
+| **Backend**           | Python · Flask                                      |
+| **Cloud**             | Google Cloud Platform · AWS Fundamentals            |
+| **Development Tools** | GitHub · VS Code · Jupyter · PyCharm · Google Colab |
+| **Security**          | Kali Linux · Cybersecurity Fundamentals             |
 
 ---
 
-# `04` — FEATURED WORK
-
-## 📊 EXAM PERFORMANCE VOLATILITY ANALYSIS
-
-### `Machine Learning · Statistics · Time Series · Flask`
-
-A data-driven ML project designed to understand **how student examination performance changes over time**.
-
-### What it explores
+# `04` — HOW I LEARN
 
 ```text
-Student Exam Data
-       │
-       ▼
-Data Cleaning
-       │
-       ▼
-Exploratory Analysis
-       │
-       ├── Mean
-       ├── Variance
-       ├── Standard Deviation
-       └── Performance Trends
-       │
-       ▼
-Feature Engineering
-       │
-       ▼
-Machine Learning
-       │
-       ▼
-Performance Analysis
+       UNDERSTAND
+            │
+            ▼
+        PRACTICE
+            │
+            ▼
+        EXPERIMENT
+            │
+            ▼
+          BUILD
+            │
+            ▼
+         ANALYZE
+            │
+            ▼
+         IMPROVE
+            │
+            └──────────────► REPEAT
 ```
 
-**Focus:** identifying fluctuations, patterns, and potential learning gaps through statistical and machine-learning techniques.
+I don't want to learn technologies only theoretically.
+
+My goal is to **understand the concept, implement it, build projects around it, and learn from the results.**
 
 ---
 
-## 🤖 CODING CHATBOT ASSISTANT
+# `05` — PROJECTS I'VE BUILT
 
-### `TypeScript · Next.js · OpenAI API · Generative AI`
+## 📈 EXAM PERFORMANCE VOLATILITY ANALYSIS
 
-An AI-powered coding assistant designed to provide an interactive conversational experience for programming-related queries.
+**Machine Learning · Python · Flask · Random Forest · Data Analysis**
 
-**Core concepts**
+A web-based system designed to analyze student examination performance and generate meaningful performance insights.
 
-* LLM integration
-* Prompt Engineering
-* Conversational AI
-* API integration
-* Next.js
-* TypeScript
+### What I worked on
+
+* Student performance data analysis
+* Data preprocessing
+* Machine Learning model development
+* Random Forest
+* Performance insights
+* Python-based backend using Flask
+
+**Project Goal:**
+Understand changes in examination performance and use data-driven techniques to identify meaningful patterns.
 
 ---
 
-## 💻 AMAZON LAPTOP ANALYSIS & RECOMMENDATION
+## 🫀 CARDIOVASCULAR DISEASE PREDICTION
 
-### `Python · Pandas · NumPy · Matplotlib · Seaborn`
+**Machine Learning · Logistic Regression · Python · Data Visualization**
 
-A data analysis project focused on exploring laptop specifications, pricing, and product characteristics.
+A Machine Learning project developed to analyze health-related data and predict cardiovascular disease risk.
+
+### Technology Used
+
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+`Logistic Regression` · `Google Colab`
+
+---
+
+## 🔐 CYBERSECURITY VULNERABILITY ASSESSMENT
+
+**Cybersecurity · Kali Linux · Penetration Testing**
+
+A practical cybersecurity project involving vulnerability assessment and web application security testing in authorized lab/scope environments.
+
+### Areas Explored
+
+* Kali Linux
+* Penetration Testing
+* ColddBox virtual environment
+* Web application security
+* Open Bug Bounty scope
+
+---
+
+## ✈️ TRAVEL TOOL PLANNER
+
+**HTML · CSS · JavaScript · Full Stack Development**
+
+A web-based Travel Tool Planner developed as part of a hands-on development and hackathon experience.
+
+### Focus
+
+`Frontend Development` · `JavaScript` · `Web Applications` · `Project Deployment`
+
+---
+
+# `06` — PROJECT MINDSET
+
+Every project gives me something beyond the final output.
 
 ```text
-Raw Product Data
-      ↓
-Cleaning
-      ↓
-Transformation
-      ↓
-EDA
-      ↓
-Visualization
-      ↓
-Comparison
-      ↓
-Recommendation
+PROJECT
+   │
+   ├── New Technology
+   ├── New Problem
+   ├── New Errors
+   ├── New Experiments
+   └── New Learning
+            │
+            ▼
+       BETTER SKILLS
 ```
 
----
-
-## 💰 MYBUDGET
-
-### `UI/UX · Figma · User Research`
-
-A mobile finance application concept focused on making personal expense tracking simpler and more intuitive.
-
-**Designed with**
-
-`User Research` · `Wireframes` · `User Flows` · `Prototype` · `UI Design`
+For me, **errors are part of the learning process.**
 
 ---
 
-## 📋 TEAMSYNC
-
-### `SaaS · Project Management · UI/UX`
-
-A project-management platform concept designed around **team collaboration, project organization, and productivity**.
-
----
-
-# `05` — MY AI/ML WORKFLOW
-
-```text
-              ┌───────────────────┐
-              │   Problem         │
-              │   Understanding   │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │   Data Collection │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │ Data Cleaning &   │
-              │       EDA         │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │ Feature           │
-              │ Engineering       │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │ Model Development │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │ Evaluation &      │
-              │ Optimization      │
-              └─────────┬─────────┘
-                        ↓
-              ┌───────────────────┐
-              │ Deployment        │
-              └───────────────────┘
-```
-
----
-
-# `06` — CURRENT FOCUS
+# `07` — CURRENTLY BUILDING MYSELF IN
 
 ```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
+AI:
+  - Artificial Intelligence
+  - Machine Learning
   - Generative AI
-  - Large Language Models
-  - Prompt Engineering
-  - NLP
-  - Model Deployment
 
-Building:
-  - AI/ML Projects
-  - Data-driven Applications
-  - AI-powered Web Applications
-
-Improving:
-  - Python
+Data:
+  - Data Science
+  - Data Analysis
+  - Statistics
   - SQL
-  - Problem Solving
-  - Data Structures
-  - Software Engineering
+
+Development:
+  - Python
+  - Web Development
+  - Backend Development
+
+Databases:
+  - MySQL
+  - MongoDB
+
+Engineering:
+  - Git & GitHub
+  - Cloud Fundamentals
+  - Project Development
 ```
 
 ---
 
-# `07` — BEYOND CODE
+# `08` — BEYOND THE CLASSROOM
 
-I believe becoming a good AI engineer is not only about knowing algorithms.
+### ☁️ Cloud & DevOps
 
-It is also about:
+Exploring cloud technologies and DevOps fundamentals through hands-on learning and internship experience.
 
-**Problem Solving**
-Understanding the real problem before choosing a model.
+### 🔐 Cybersecurity
 
-**Continuous Learning**
-Technology changes quickly. Learning never stops.
+Developed practical exposure to cybersecurity, penetration testing and vulnerability assessment.
 
-**Experimentation**
-Trying, failing, analyzing, and improving.
+### 🎨 UI/UX
 
-**Communication**
-A good solution should also be understandable.
+Exploring user-centered design, wireframing and prototyping using Figma.
+
+### ♟️ Chess
+
+Runner-up in a chess tournament at St. Mary’s Women’s Engineering College.
 
 ---
 
-# `08` — LEARNING PATH
+# `09` — LEARNING ROADMAP
 
 ```text
-Python
-  │
-  ├── Data Analysis
-  │      │
-  │      └── Pandas · NumPy · Visualization
-  │
-  ├── Machine Learning
-  │      │
-  │      └── Scikit-learn · Model Evaluation
-  │
-  ├── Deep Learning
-  │      │
-  │      └── LSTM · GRU · Neural Networks
-  │
-  └── Generative AI
-         │
-         └── LLMs · Prompt Engineering · AI Applications
+                 FOUNDATION
+                     │
+        ┌────────────┼────────────┐
+        ↓            ↓            ↓
+      Python        SQL          Git
+        │            │            │
+        └────────────┼────────────┘
+                     ↓
+                DATA SCIENCE
+                     │
+                     ↓
+             MACHINE LEARNING
+                     │
+                     ↓
+              DEEPER AI CONCEPTS
+                     │
+                     ↓
+              GENERATIVE AI
+                     │
+                     ↓
+             AI APPLICATIONS
+                     │
+                     ↓
+                  DEPLOY
 ```
 
 ---
 
-# `09` — CERTIFICATIONS & EXPERIENCE
+# `10` — CERTIFICATIONS & EXPERIENCE
 
-* 🎓 Artificial Intelligence & Machine Learning
-* 🤖 Machine Learning using Python
-* ✨ Generative AI & Prompt Engineering
-* 💻 Front-End Development
-* ☁️ Cloud Engineering & DevOps
-* 🔐 Cybersecurity
-* 🎨 UI/UX Design
+* **Machine Learning using Python** — Simplilearn
+* **Front-End Development & Generative AI** — GUVI
+* **Cybersecurity** — Corizo
+* **Ethical Hacking** — Great Learning
+* **Cloud Engineering & DevOps** — Datavalley India Pvt Ltd
+* **Artificial Intelligence & Machine Learning using Python Libraries** — Corizo
+
+My internship and certification journey has helped me explore **AI/ML, Cloud & DevOps, Cybersecurity, Front-End Development and Generative AI**.
 
 ---
 
-# `10` — GITHUB ACTIVITY
+# `11` — GITHUB ACTIVITY
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lavanya622&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya622&layout=compact&hide_border=true&theme=transparent" width="48%"/>
 
 </p>
 
 ---
 
-# `11` — LET'S CONNECT
+# `12` — LET'S CONNECT
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/lavanya-guntupalli-08b566318/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/lavanya622">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
-### `BUILD • LEARN • EXPERIMENT • EVOLVE`
+## `13` — THE JOURNEY
+
+> **Learn something new. Build something useful. Break something. Fix it. Learn again.**
+
+### 🚀 Still learning. Still building. Still improving.
 
 <p align="center">
 
-**Thanks for visiting my GitHub profile.**
-⭐ Feel free to explore my repositories and projects.
+**Thanks for visiting my profile!**
+
+⭐ Explore my repositories and follow my journey in AI & Machine Learning.
 
 </p>
+
+
+
+---
 
 
