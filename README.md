@@ -254,10 +254,6 @@ Developed practical exposure to cybersecurity, penetration testing and vulnerabi
 
 Exploring user-centered design, wireframing and prototyping using Figma.
 
-### ♟️ Chess
-
-Runner-up in a chess tournament at St. Mary’s Women’s Engineering College.
-
 ---
 
 # `09` — LEARNING ROADMAP
@@ -339,7 +335,7 @@ My internship and certification journey has helped me explore **AI/ML, Cloud & D
 
 <p align="center">
 
-**Thanks for visiting my profile!**
+   ### Thanks for visiting my profile!**
 
 ⭐ Explore my repositories and follow my journey in AI & Machine Learning.
 
