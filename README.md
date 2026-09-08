@@ -300,19 +300,10 @@ My internship and certification journey has helped me explore **AI/ML, Cloud & D
 
 ---
 
-# `11` — GITHUB ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lavanya622&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya622&layout=compact&hide_border=true&theme=transparent" width="48%"/>
-
-</p>
 
 ---
 
-# `12` — LET'S CONNECT
+# `11` — LET'S CONNECT
 
 <p align="left">
 
@@ -327,7 +318,7 @@ My internship and certification journey has helped me explore **AI/ML, Cloud & D
 </p>
 ---
 
-## `13` — THE JOURNEY
+## `12` — THE JOURNEY
 
 > **Learn something new. Build something useful. Break something. Fix it. Learn again.**
 
@@ -335,7 +326,7 @@ My internship and certification journey has helped me explore **AI/ML, Cloud & D
 
 <p align="center">
 
-   ### Thanks for visiting my profile!**
+                      ### Thanks for visiting my profile! 
 
 ⭐ Explore my repositories and follow my journey in AI & Machine Learning.
 
