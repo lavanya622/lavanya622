@@ -1,23 +1,176 @@
-# 👋 Hi, I'm Lavanya
-<br><br>### Computer Science Engineering | Artificial Intelligence & Machine Learning | Python | Data Science<br><br>I’m **Lavanya**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical, data-driven solutions using modern technologies.<br><br>My technical journey spans **Python, Machine Learning, Data Science, Web Development, and Cybersecurity**. I enjoy working with real-world datasets, understanding machine learning algorithms, developing predictive models, and transforming technical concepts into practical applications.<br><br>---<br><br>## 🤖 AI & Machine Learning<br><br>I have hands-on experience with:<br><br>* Data Preprocessing & Cleaning<br>* Exploratory Data Analysis<br>* Data Visualization<br>* Feature Engineering<br>* Feature Scaling & Encoding<br>* Model Training & Prediction<br>* Model Evaluation<br>* Cross Validation<br>* Hyperparameter Tuning<br>* Handling Imbalanced Data<br>* Machine Learning Pipelines<br><br>### Machine Learning Algorithms<br><br>**Regression**<br><br>* Linear Regression<br>* Multiple Linear Regression<br>* Polynomial Regression<br>* Ridge Regression<br>* Lasso Regression<br>* Elastic Net<br><br>**Classification**<br><br>* Logistic Regression<br>* K-Nearest Neighbors<br>* Decision Tree<br>* Random Forest<br>* Support Vector Machine<br>* Naive Bayes<br><br>**Unsupervised Learning**<br><br>* K-Means Clustering<br>* Hierarchical Clustering<br>* DBSCAN<br>* Principal Component Analysis<br><br>**Ensemble Learning**<br><br>* Random Forest<br>* AdaBoost<br>* Gradient Boosting<br>* XGBoost<br><br>---<br><br>## 💻 Technical Skills<br><br>### Programming Languages<br><br>**Python | Java (Basics) | SQL | JavaScript | PowerShell**<br><br>### Data Science & Machine Learning<br><br>**Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn**<br><br>### Web Development<br><br>**HTML | CSS | JavaScript | Node.js | Django**<br><br>### Databases<br><br>**MySQL | MongoDB**<br><br>### AI & Emerging Technologies<br><br>**Artificial Intelligence | Machine Learning | Generative AI | Prompt Engineering | MLOps**<br><br>### Cloud & DevOps<br><br>**AWS | Google Cloud Platform | Cloud & DevOps Fundamentals**<br><br>### Cybersecurity<br><br>**Kali Linux | Ethical Hacking Fundamentals | Vulnerability Assessment**<br><br>### Tools<br><br>**Git | GitHub | VS Code | Jupyter Notebook | Google Colab | PyCharm**<br><br>---<br><br>## 📊 Data Science & ML Workflow<br><br>I follow a structured approach while working on Machine Learning projects:<br><br>**Data Collection → Data Understanding → Data Cleaning → EDA → Feature Engineering → Preprocessing → Train/Test Split → Model Training → Prediction → Evaluation → Hyperparameter Tuning → Model Improvement**<br><br>My focus is not only on implementing an algorithm, but also on understanding **why a particular approach is used and how its performance can be evaluated and improved**.<br><br>---<br><br>## 📂 Projects<br><br>### 🎓 Exam Performance Volatility Analysis<br><br>A Machine Learning-based web application developed using **Python and Flask** to analyze student examination performance, identify performance patterns, and generate useful academic insights.<br><br>**Technologies:** Python • Flask • Pandas • Scikit-learn • Random Forest<br><br>### ❤️ Cardiovascular Disease Prediction<br><br>A Machine Learning project that applies **Logistic Regression** to analyze cardiovascular health data and build a predictive classification model.<br><br>**Technologies:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Google Colab<br><br>### 🌐 Travel Tool Planner<br><br>A web development project focused on creating a practical travel planning interface using front-end technologies.<br><br>**Technologies:** HTML • CSS • JavaScript<br><br>### 🔐 Cybersecurity Vulnerability Assessment<br><br>A practical cybersecurity project involving vulnerability assessment and penetration-testing concepts in a controlled virtual environment.<br><br>**Technologies:** Kali Linux • Security Testing • Vulnerability Assessment<br><br>---<br><br>## 📚 My Machine Learning Journey<br><br>I maintain individual repositories for different Machine Learning concepts and algorithms, documenting my learning through practical implementations and dataset-based experiments.<br><br>**Regression → Classification → Clustering → Dimensionality Reduction → Ensemble Learning → Model Optimization**<br><br>This approach helps me strengthen both my **theoretical understanding and practical implementation skills**.<br><br>---<br><br>## 🌱 Currently Exploring<br><br>* Deep Learning<br>* Generative AI<br>* Advanced Machine Learning<br>* MLOps<br>* Model Deployment<br>* SQL & Data Analytics<br>* Full-Stack Development<br><br>---<br><br>## 🎯 Career Focus<br><br>I’m looking to begin my professional journey in **Artificial Intelligence, Machine Learning, Data Science, or Software Development**, where I can apply my technical skills to real-world problems, contribute to meaningful projects, and continue learning new technologies.<br><br>I believe in **learning by building** and continuously improving through practical experience.<br><br>> **Learn with purpose. Build with curiosity. Improve with every project. 🚀**<br><br><br><br>
+# Hello, I'm Lavanya. 👋
+
+### I build, learn, and experiment at the intersection of **Code, Data & Artificial Intelligence.**
+
+🎓 **CSE — Artificial Intelligence & Machine Learning**
+
+I’m a technology enthusiast focused on turning concepts into working implementations.
+My journey started with **Python and programming** and has grown into hands-on exploration of **Machine Learning, Data Science, Artificial Intelligence, Web Development, and Cybersecurity**.
+
+---
+
+### 🔎 What I'm Exploring
+
+**01 — Machine Learning**
+Building models, experimenting with algorithms, working with datasets, and understanding how models learn from data.
+
+**02 — Data Science**
+From raw data to meaningful insights — preprocessing, analysis, visualization, feature engineering, and model evaluation.
+
+**03 — Artificial Intelligence**
+Exploring AI concepts and Generative AI while learning how intelligent systems can be applied to practical problems.
+
+**04 — Software Development**
+Developing applications with Python and web technologies and strengthening my understanding of software development.
+
+**05 — Cybersecurity & Cloud**
+Exploring security fundamentals, vulnerability assessment, cloud technologies, and DevOps concepts.
+
+---
+
+### 🧩 My Technical Playground
+
+**Languages**
+Python · SQL · Java · JavaScript · PowerShell
+
+**AI / ML**
+Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn
+
+**Web**
+HTML · CSS · JavaScript · Node.js · Django
+
+**Databases**
+MySQL · MongoDB
+
+**Cloud & DevOps**
+AWS · Google Cloud · MLOps
+
+**Tools**
+Git · GitHub · VS Code · Jupyter · Google Colab · PyCharm
+
+---
+
+### 📌 What You'll Find Here
+
+This GitHub is a record of my **learning through implementation**.
+
+You’ll find:
+
+→ Machine Learning algorithm implementations
+→ Regression & classification experiments
+→ Clustering & dimensionality reduction
+→ Data analysis & visualization
+→ Model evaluation & hyperparameter tuning
+→ AI and Generative AI explorations
+→ Web development projects
+→ End-to-end practical projects
+
+I prefer to learn a concept, **implement it, experiment with it, understand its behaviour, and document the process**.
+
+---
+
+### 🛠️ Currently Building My Skills In
+
+**Machine Learning**
+**Generative AI**
+**Deep Learning**
+**MLOps**
+**Data Analytics**
+**Software Development**
+
+---
+
+### 🎯 Where I'm Heading
+
+I’m working towards becoming a strong **AI/ML professional**, while building the software, analytical, and problem-solving skills needed to create practical technology solutions.
+
+**Not just learning technologies — learning how to build with them.**
+
+---
+
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lavanya-guntupalli-08b566318) 
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/lavanya-guntupalli-08b566318)
 
 
+
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+
+## 💻 Programming Languages
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat\&logo=powershell\&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+
+## 🤖 Machine Learning & Data Science
+
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)](https://matplotlib.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat\&logo=mlflow\&logoColor=white)](https://mlflow.org/)
+
+## 🌐 Web Development
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat\&logo=django\&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=%2361DAFB)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat\&logo=angular\&logoColor=white)](https://angular.dev/)
+
+## 🗄️ Databases
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)](https://www.oracle.com/)
+
+## ☁️ Cloud & DevOps
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat\&logo=amazon-aws\&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat\&logo=google-cloud\&logoColor=white)](https://cloud.google.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white)](https://github.com/features/actions)
+[![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat\&logo=gitlab\&logoColor=white)](https://about.gitlab.com/)
+[![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat\&logo=apache\&logoColor=white)](https://www.apache.org/)
+
+## 🧩 MLOps & AI Infrastructure
+
+[![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat\&logo=mlflow\&logoColor=white)](https://mlflow.org/)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat\&logo=nvidia\&logoColor=white)](https://www.nvidia.com/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat\&logo=anaconda\&logoColor=white)](https://www.anaconda.com/)
+
+## 🛠️ Development Tools
+
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat\&logo=github\&logoColor=white)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)](https://www.postman.com/)
+
+## 📊 Data Analytics & Business Intelligence
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+## 🎨 UI/UX & Design
+
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat\&logo=figma\&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat\&logo=Canva\&logoColor=white)](https://www.canva.com/)
+
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat\&logo=firefox\&logoColor=%23FF7139)](#)
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=lavanya622&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lavanya622&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lavanya622&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lavanya622&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=lavanya622&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
