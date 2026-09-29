@@ -89,7 +89,8 @@ That mindset is what I bring to every project I work on, and my GitHub is a refl
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lavanya-guntupalli-08b566318) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-guntupalli-08b566318)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/lavanya-guntupalli-08b566318)
 
 
@@ -165,6 +166,7 @@ That mindset is what I bring to every project I work on, and my GitHub is a refl
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=lavanya622&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lavanya622&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lavanya622&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
