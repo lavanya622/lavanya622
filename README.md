@@ -1,175 +1,400 @@
-## 👋 Hi I'm Lavanya
+# 👋 Hi, I'm Lavanya Guntupalli
 
-Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, with a growing interest in building technology that turns **data, ideas, and experimentation into practical solutions**.
+### AI & ML Engineer | Data Science Enthusiast | Python Developer
 
-My journey in technology has been shaped by curiosity and hands-on learning. I enjoy going beyond simply understanding how a technology works — I like exploring **why it works, where it can be applied, how it performs in real situations, and how it can be improved**.
+🎓 **B.Tech Computer Science Engineering — Artificial Intelligence & Machine Learning**
+🏫 St. Mary’s Women’s Engineering College | JNTUK | 2022–2026
 
-I started my journey with programming and gradually moved toward **Python, Data Science, and Machine Learning**. As I explored these areas, I became interested in the complete process behind a machine learning solution — from understanding a dataset and preparing the data to training models, evaluating their performance, tuning them, and eventually connecting them with real applications.
+📍 India
+📧 **[guntupallilavanya7@gmail.com](mailto:guntupallilavanya7@gmail.com)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/lavanya-guntupalli-08b566318)**
+💻 **[GitHub](https://github.com/lavanya622)**
 
-### 🧠 From Data to Intelligence
+---
 
-Machine Learning is currently one of the strongest areas of my learning journey.
+## 🚀 About Me
 
-I have been working hands-on with different stages of the ML workflow, including **data cleaning, preprocessing, exploratory data analysis, feature engineering, encoding, scaling, handling missing values and outliers, dealing with imbalanced datasets, model training, evaluation, cross-validation, hyperparameter tuning, and pipeline development**.
+I am a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, passionate about transforming **data, ideas, and algorithms into practical technology solutions**.
 
-My practical exploration covers a wide range of algorithms across:
+My technical journey started with programming and gradually expanded into **Python, Data Science, Machine Learning, Web Development, Cloud, MLOps, and Cybersecurity**.
 
-**Regression** — Linear, Multiple Linear, Polynomial, Ridge, Lasso, and Elastic Net
+I enjoy learning by building. Instead of limiting myself to theoretical concepts, I prefer understanding the complete development cycle:
 
-**Classification** — Logistic Regression, KNN, Decision Trees, Random Forest, SVM, and Naive Bayes
+**Problem → Data → Analysis → Model → Evaluation → Improvement → Application**
 
-**Unsupervised Learning** — K-Means, Hierarchical Clustering, DBSCAN, and PCA
+My GitHub reflects this approach through **individual machine learning implementations, data analysis experiments, web applications, and end-to-end projects**.
 
-**Ensemble Learning** — Random Forest, AdaBoost, Gradient Boosting, and XGBoost
+I am continuously strengthening my skills in **AI/ML, Python, SQL, Data Science, software development, and practical model deployment**, while exploring modern areas such as **Generative AI, MLOps, Cloud technologies, and advanced machine learning**.
 
-Rather than treating these algorithms as isolated topics, I use individual projects and datasets to understand how different approaches behave and where each technique fits into a practical workflow.
+---
 
-### 🔬 Learning Through Implementation
+## 🧠 Machine Learning & Data Science
 
-One of the most important parts of my GitHub is the collection of **hands-on machine learning repositories**.
+Machine Learning is one of the main areas of my technical journey.
 
-I maintain separate implementations and experiments for different algorithms and concepts so that my learning is not limited to notes or theoretical definitions. Each repository represents a step in understanding a particular concept through **code, experimentation, evaluation, and documentation**.
+I have worked through the complete ML workflow, including:
 
-For me, GitHub is not just a place to store finished projects.
+* Data Collection & Understanding
+* Data Cleaning
+* Missing Value Handling
+* Outlier Detection & Treatment
+* Exploratory Data Analysis
+* Data Visualization
+* Feature Engineering
+* Encoding Categorical Variables
+* Feature Scaling
+* Handling Imbalanced Data
+* Train/Test Splitting
+* Model Training
+* Model Evaluation
+* Cross-Validation
+* Hyperparameter Tuning
+* Model Comparison
+* Pipeline Development
+* Model Saving & Prediction
 
-It is a place where I can **build, test, make mistakes, improve, and track my technical growth over time**.
+### 📚 Machine Learning Algorithms
 
-### 🌐 Beyond Machine Learning
+**Regression**
 
-While AI and Machine Learning are at the center of my current focus, I’m also interested in understanding the technologies that help turn models and ideas into usable applications.
+* Linear Regression
+* Multiple Linear Regression
+* Polynomial Regression
+* Ridge Regression
+* Lasso Regression
+* Elastic Net
 
-I explore **Web Development** using technologies such as HTML, JavaScript, Node.js, Django, Flask, FastAPI, and other modern development tools.
+**Classification**
 
-I also work with **MySQL and MongoDB** and continue developing my understanding of databases and data management.
+* Logistic Regression
+* K-Nearest Neighbors
+* Decision Tree
+* Random Forest
+* Support Vector Machine
+* Naive Bayes
 
-My learning extends into **Cloud, DevOps, and MLOps**, where I’m exploring AWS, Google Cloud, MLflow, GitHub Actions, and related development practices.
+**Unsupervised Learning**
 
-I have also explored **Cybersecurity and Ethical Hacking fundamentals**, which has helped me develop an additional perspective on application security, vulnerabilities, and responsible security testing.
+* K-Means Clustering
+* Hierarchical Clustering
+* DBSCAN
+* Principal Component Analysis (PCA)
 
-### 🛠️ Building Real Projects
+**Ensemble Learning**
 
-My projects are where I try to connect different areas of technology.
+* Random Forest
+* AdaBoost
+* Gradient Boosting
+* XGBoost
 
-From **machine learning models and data analysis** to **web-based applications and MLOps-oriented projects**, I enjoy working through the complete journey of turning an idea into something that can actually be implemented.
+I maintain separate repositories and practical implementations for different ML concepts so that my learning is based on **implementation, experimentation, evaluation, and documentation** rather than theory alone.
 
-Some of my work includes projects around **student performance analysis, machine learning prediction, cardiovascular disease prediction, cybersecurity assessment, travel planning, and smart agriculture**, along with many individual ML experiments.
+---
 
-Each project gives me a chance to strengthen not only my technical knowledge, but also my ability to approach a problem systematically:
+## 🛠️ Technical Skills
 
-**Understand the problem → Explore the data → Build the solution → Evaluate it → Improve it → Document it.**
+### 💻 Programming
 
-### 📚 Always Exploring
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Basics-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-Technology changes continuously, and I see learning as an ongoing process.
+### 📊 Data Science & Machine Learning
 
-At present, I’m strengthening my foundations in **AI, Machine Learning, Data Science, Python, SQL, and software development**, while gradually exploring areas such as **Generative AI, MLOps, Cloud technologies, and advanced machine learning techniques**.
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
 
-I’m particularly interested in understanding how AI systems can move beyond experimentation and become **reliable, useful, and practical applications**.
+### 🌐 Web Development
 
-### 🎯 The Direction I'm Building Toward
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-My long-term goal is to grow into a technology professional who can work across the journey from **data to intelligence to application**.
+### 🗄️ Databases
 
-I want to build a strong combination of:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-**Programming fundamentals**
-**Data understanding**
-**Machine Learning expertise**
-**Software development**
-**Cloud & MLOps awareness**
-**Problem-solving mindset**
+### ☁️ Cloud & MLOps
 
-I’m still learning, experimenting, and improving — and that is exactly what I want this profile to represent.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
-> **Learn the concept. Build the implementation. Understand the result. Improve the solution.**
+### 🔧 Tools & Development Environment
 
-That mindset is what I bring to every project I work on, and my GitHub is a reflection of that journey.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
 
+### 🔐 Cybersecurity
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 
+I have explored **Cybersecurity and Ethical Hacking fundamentals**, including vulnerability assessment and responsible security testing in controlled environments.
 
-## 🌐 Socials:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-guntupalli-08b566318/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/lavanya622)
+# 💡 Featured Projects
 
+## 🎓 Exam Performance Volatility Analysis
 
+**Machine Learning | Python | Flask | Random Forest**
 
-# 💻 Tech Stack:
+A web-based machine learning application designed to analyze student examination performance and identify performance volatility.
 
-## 💻 Programming Languages
+**Key areas:**
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat\&logo=powershell\&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+* Student performance analysis
+* Feature-based machine learning prediction
+* Random Forest model
+* Performance volatility calculation
+* Average score analysis
+* Weak-subject identification
+* Web-based interface using Flask
+* Model integration with application logic
 
-## 🤖 Machine Learning & Data Science
+---
 
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)](https://matplotlib.org/)
-[![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat\&logo=mlflow\&logoColor=white)](https://mlflow.org/)
+## 🌱 Smart Agriculture — ML & MLOps
 
-## 🌐 Web Development
+**Machine Learning | Random Forest | Python | MLOps**
 
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat\&logo=django\&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=%2361DAFB)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)](https://react.dev/)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat\&logo=angular\&logoColor=white)](https://angular.dev/)
+An agriculture-focused machine learning project designed to use data-driven approaches for agricultural decision-making.
 
-## 🗄️ Databases
+**Key areas:**
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)](https://www.oracle.com/)
+* Agricultural dataset analysis
+* Data preprocessing
+* Machine learning model training
+* Crop yield prediction
+* Random Forest pipeline
+* Model serialization
+* Prediction workflow
+* MLOps-oriented project structure
 
-## ☁️ Cloud & DevOps
+Future extensions include **irrigation requirement prediction** and **fertilizer recommendation**.
 
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat\&logo=amazon-aws\&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat\&logo=google-cloud\&logoColor=white)](https://cloud.google.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white)](https://github.com/features/actions)
-[![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat\&logo=gitlab\&logoColor=white)](https://about.gitlab.com/)
-[![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat\&logo=apache\&logoColor=white)](https://www.apache.org/)
+---
 
-## 🧩 MLOps & AI Infrastructure
+## ❤️ Cardiovascular Disease Prediction
 
-[![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat\&logo=mlflow\&logoColor=white)](https://mlflow.org/)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat\&logo=nvidia\&logoColor=white)](https://www.nvidia.com/)
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat\&logo=anaconda\&logoColor=white)](https://www.anaconda.com/)
+**Machine Learning | Logistic Regression | Pandas | NumPy | Matplotlib | Seaborn**
 
-## 🛠️ Development Tools
+A machine learning project developed to analyze health-related data and build a classification model for cardiovascular disease prediction.
 
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat\&logo=github\&logoColor=white)](https://github.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)](https://www.postman.com/)
+**Workflow:**
 
-## 📊 Data Analytics & Business Intelligence
+`Data Analysis → Preprocessing → Visualization → Feature Preparation → Model Training → Prediction → Evaluation`
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+Technologies used include **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**.
 
-## 🎨 UI/UX & Design
+---
 
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat\&logo=figma\&logoColor=white)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat\&logo=Canva\&logoColor=white)](https://www.canva.com/)
+## 🔐 Cybersecurity Vulnerability Assessment
 
-## 🌐 Portfolio
+**Kali Linux | Ethical Hacking | Security Testing**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat\&logo=firefox\&logoColor=%23FF7139)](#)
+A cybersecurity learning project involving vulnerability assessment and penetration-testing concepts in controlled environments.
 
+The project helped me understand:
 
+* Vulnerability identification
+* Web application security concepts
+* Security testing methodologies
+* Kali Linux tools
+* Responsible penetration testing
 
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.shion.dev/api?username=lavanya622&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lavanya622&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lavanya622&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ✈️ Travel Tool Planner
+
+**HTML | CSS | JavaScript | Full Stack Development**
+
+A travel planning web project developed during a **24-hour bootcamp and hackathon**.
+
+The project provided hands-on exposure to:
+
+* Front-end development
+* JavaScript functionality
+* Web application structure
+* Project setup and execution
+* Full-stack development concepts
+
+---
+
+# 📂 Machine Learning Repository Collection
+
+I am building a structured collection of machine learning repositories where each repository focuses on a specific algorithm or concept.
+
+### Regression
+
+* Linear Regression
+* Polynomial Regression
+* Ridge Regression
+* Lasso Regression
+* Elastic Net
+
+### Classification
+
+* Logistic Regression
+* KNN
+* Decision Tree
+* Random Forest
+* SVM
+* Naive Bayes
+
+### Clustering & Dimensionality Reduction
+
+* K-Means
+* Hierarchical Clustering
+* DBSCAN
+* PCA
+
+### Ensemble Methods
+
+* Random Forest
+* AdaBoost
+* Gradient Boosting
+* XGBoost
+
+Each repository focuses on **practical implementation, dataset exploration, preprocessing, visualization, model training, evaluation, and documentation**.
+
+---
+
+# 🌐 Web Development Journey
+
+Alongside Machine Learning, I continue building my software development foundation through projects and practice in:
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* React.js
+* Flask
+* Front-End Development
+* Backend Development Fundamentals
+
+My goal is to understand how machine learning models can be connected with **real-world web applications and user-facing systems**.
+
+---
+
+# ☁️ Cloud, DevOps & MLOps
+
+I am also exploring the engineering side of machine learning through:
+
+* AWS Cloud
+* Google Cloud
+* Git & GitHub
+* MLflow
+* Model Deployment Concepts
+* CI/CD Fundamentals
+* MLOps Workflows
+
+I am particularly interested in understanding how a model moves from a **Jupyter Notebook experiment into a reproducible and usable application**.
+
+---
+
+# 📜 Certifications & Training
+
+* **Machine Learning using Python** — Simplilearn
+* **Artificial Intelligence & Python Libraries** — Corizo
+* **Front-End Development & Generative AI** — GUVI
+* **Cloud Engineering & DevOps — AWS** — Datavalley India Pvt. Ltd.
+* **Cybersecurity & Ethical Hacking** — Corizo / Great Learning
+
+---
+
+# 🏆 Achievements & Activities
+
+* 🥈 **Runner-up — Chess Tournament**, St. Mary’s Women’s Engineering College
+* 💻 Participated in a **24-hour Bootcamp & Hackathon** on Travel Tool Planner and Full Stack Development
+* 🚀 Continuously building and documenting practical Machine Learning projects
+* 📚 Actively exploring AI, Data Science, Web Development, Cloud, and MLOps
+
+---
+
+# 🎯 What I'm Currently Learning
+
+```text
+Python & Advanced Programming
+        ↓
+Data Analysis & Visualization
+        ↓
+Machine Learning
+        ↓
+Deep Learning & Generative AI
+        ↓
+Model Deployment
+        ↓
+Cloud & MLOps
+        ↓
+Real-World AI Applications
+```
+
+Currently strengthening my knowledge in:
+
+* Python
+* Data Science
+* Machine Learning
+* Deep Learning
+* SQL
+* Generative AI
+* MLOps
+* Cloud Technologies
+* Software Development
+
+---
+
+# 💭 My Development Philosophy
+
+> **Learn the concept.
+> Build the implementation.
+> Understand the result.
+> Improve the solution.**
+
+I believe strong technical growth comes from **consistent practice, experimentation, problem-solving, and building real projects**.
+
+My GitHub is a reflection of that journey — from learning individual concepts to connecting them into practical applications.
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanya622\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lavanya622\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya622\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🤝 Let's Connect
+
+If you're interested in **AI, Machine Learning, Data Science, Web Development, or MLOps**, feel free to connect with me.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Guntupalli-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lavanya-guntupalli-08b566318/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-lavanya622-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lavanya622)
+
+📧 **[guntupallilavanya7@gmail.com](mailto:guntupallilavanya7@gmail.com)**
+
+---
+
+### ✨ Building. Learning. Experimenting. Improving.
+
+**Turning data and ideas into practical technology — one project at a time.**
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
